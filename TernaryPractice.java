@@ -7,6 +7,7 @@ public class TernaryPractice {
 
         System.out.println(calsResult);
 
+        // Extra Credit
         String student = "Dumbledore";
         // if student is a witch or wizard, they are admitted
         String admission = student.equals("witch") || student.equals("wizard") ? "Admission approved" : "Admission denied";
